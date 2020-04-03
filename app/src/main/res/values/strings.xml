@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">衢江卫检文书编辑器</string>
+    <string name="login_dr">登入</string>
+    <string name="login_use">用户名</string>
+    <string name="login_pw">密码</string>
+    <string name="login_version">wsjdzfws-version1.0</string>
+    <string name="appicon_wsjd">wsjd</string>
+</resources>
